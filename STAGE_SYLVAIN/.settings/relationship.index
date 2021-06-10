@@ -135,14 +135,6 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
-  }, {
-    "id" : "_E8cC4MnCEeuhoPzioaq1Vg - STUDENT",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_E8cC4MnCEeuhoPzioaq1Vg - TEACHER",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
