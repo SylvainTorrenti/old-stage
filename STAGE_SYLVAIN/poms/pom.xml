@@ -18,6 +18,7 @@
     <module>jobs/process/TestEnToutGenre/copy_of_cosnowflak_0.1</module>
     <module>jobs/process/TestEnToutGenre/miseenpratique_0.1</module>
     <module>jobs/process/TestEnToutGenre/metadonees_0.1</module>
+    <module>jobs/process/TestEnToutGenre/miseenpratique2_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
