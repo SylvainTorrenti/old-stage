@@ -15,9 +15,9 @@ a:hover
 {
 color: #480050;
 }
-#logo
+header
 {
-padding-left: 36%;
+text-align: center;
 }
 div
 {
